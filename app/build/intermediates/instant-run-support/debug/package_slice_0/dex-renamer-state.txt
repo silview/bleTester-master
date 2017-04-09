@@ -1,0 +1,4 @@
+#Sun Apr 09 16:50:20 CST 2017
+base.0=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

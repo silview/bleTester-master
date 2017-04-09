@@ -1,0 +1,10 @@
+#Sun Apr 09 16:50:20 CST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_70ba66d8d5b6c6bc1eb539024bd42de212770c78
+base.1=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_27613765f4226fcc40a5a8718dc8b48eef216c3e
+base.0=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_b1ba41d95da48e3a92fb0a050d074d24b6ef65c0
+file.2=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_70ba66d8d5b6c6bc1eb539024bd42de212770c78\\classes.dex
+file.1=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.3_27613765f4226fcc40a5a8718dc8b48eef216c3e\\classes.dex
+file.0=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.3_b1ba41d95da48e3a92fb0a050d074d24b6ef65c0\\classes.dex

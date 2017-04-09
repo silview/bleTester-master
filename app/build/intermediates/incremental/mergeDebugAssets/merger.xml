@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\rober\.android\build-cache\a0467bdd5c1b044befdbca97fada1a019b4fd6b0\output\assets"/></dataSet><dataSet config="main"><source path="G:\Android App\SilviewBlue\bleTester-master\app\src\main\assets"/><source path="G:\Android App\SilviewBlue\bleTester-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="G:\Android App\SilviewBlue\bleTester-master\app\src\debug\assets"/></dataSet></merger>

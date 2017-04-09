@@ -1,0 +1,7 @@
+#Sun Apr 09 16:50:21 CST 2017
+base.0=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8b33862598ca571013fc92184f310d865fc48bd7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afca62c23056013c11fb0521072e07435b3277e1\\classes.dex
+base.1=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_afca62c23056013c11fb0521072e07435b3277e1
+file.0=G\:\\Android App\\SilviewBlue\\bleTester-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8b33862598ca571013fc92184f310d865fc48bd7\\classes.dex

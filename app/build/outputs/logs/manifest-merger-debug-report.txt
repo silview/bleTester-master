@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\rober\.android\build-cache\a0467bdd5c1b044befdbca97fada1a019b4fd6b0\output\AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:16:5-44:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\rober\.android\build-cache\a0467bdd5c1b044befdbca97fada1a019b4fd6b0\output\AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:17:9-65
+activity#com.xinzhongxin.bletester.MainActivity
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:23:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.xinzhongxin.bletester.DeviceConnect
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:31:19-73
+activity#com.xinzhongxin.bletester.CharacterisiticActivity
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:33:19-83
+activity#com.xinzhongxin.bletester.ChangeCharActivity
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:35:9-36:20
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:35:19-78
+activity#com.xinzhongxin.bletester.AboutActivity
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:37:9-38:20
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:37:19-73
+activity#com.xinzhongxin.bletester.QrcodeActivity
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:39:19-74
+service#com.xinzhongxin.service.BleService
+ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:42:9-43:19
+	android:name
+		ADDED from G:\Android App\SilviewBlue\bleTester-master\app\src\main\AndroidManifest.xml:42:18-67

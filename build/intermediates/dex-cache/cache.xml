@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Android App\SilviewBlue\bleTester-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="G:\Android App\SilviewBlue\bleTester-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8b33862598ca571013fc92184f310d865fc48bd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rober\.android\build-cache\a0467bdd5c1b044befdbca97fada1a019b4fd6b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="G:\Android App\SilviewBlue\bleTester-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70ba66d8d5b6c6bc1eb539024bd42de212770c78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android App\SilviewBlue\bleTester-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0821a226cd5697916ad01c953acc27aa0cb79be">
+        <dex dex="G:\Android App\SilviewBlue\bleTester-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_afca62c23056013c11fb0521072e07435b3277e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rober\.android\build-cache\a0467bdd5c1b044befdbca97fada1a019b4fd6b0\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="G:\Android App\SilviewBlue\bleTester-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_27613765f4226fcc40a5a8718dc8b48eef216c3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android_SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="G:\Android App\SilviewBlue\bleTester-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_b1ba41d95da48e3a92fb0a050d074d24b6ef65c0\classes.dex" />
+    </item>
+
+</items>
